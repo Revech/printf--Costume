@@ -58,7 +58,5 @@ To compile and use the custom `printf`, follow these steps:
 - `custom_printf.c`: Contains the implementation of the custom `printf` function.
 - `custom_printf.h`: Contains the function prototypes and necessary includes.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. 
 
